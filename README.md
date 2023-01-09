@@ -12,5 +12,5 @@
 
 ### insights from analysis:
 ##### 1. states in southeast relatively have low dose/person
-##### 2. 2021 middle is the peak of daily vaccination for most the states
+##### 2. 2021 Q2 is the peak of daily vaccination for most the states
 ##### 3. vaccinations distributed were mostly used at begginning of 2021 when supply was low
